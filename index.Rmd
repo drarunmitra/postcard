@@ -1,0 +1,47 @@
+---
+title: "Arun Mitra"
+image: "arun.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/dr-arunmitra/"
+  - label: Twitter
+    url: "https://twitter.com/drarunmitra"
+  - label: GitHub
+    url: "https://github.com/drarunmitra"
+  - label: Email
+    url: "mailto:dr.arunmitra@gmail.com"
+  - label: Personal Website
+    url: "https://arunmitra.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a medical doctor who is passionate about evidence synthesis in healthcare with over 10+ years of research experience. My core area of interest is in the application of epidemiological, spatio-temporal and data science methods in generating actionable evidence for informed decision making in healthcare. Other areas of my work include infectious disease modeling, public health informatics, artificial intelligence and machine learning.
+
+## Education
+
+**Sree Chitra Tirunal Institute of Medical Sciences & Technology** | Trivandrum, Kerala
+
+Ph.D. in Health Data Science | September 2020 - Present
+
+**Indian Institute of Science** | Bengaluru, Karnataka
+
+Advanced Certification in Digtial Health and Imaging | January 2021 - August 2021
+
+**Maharasthra University of Health Sciences** | Nashik, Maharasthra
+
+M.D.  (Community Medicine) | Sept 2014 - August 2017
+
+**Maharasthra University of Health Sciences** | Hebei, China
+
+M.B.B.S. | Sept 2004 - August 2010
+
+## Experience
+
+**Alberta International Retina Center** | Research Associate | October 2019 - August 2020
+
+**All India Institute of Medical Sciences, Bhopal** | Senior Resident | September 2017 - October 2019
+
+
